@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Your Blog name</title>
+        <link>https://newsweb.wrteam.me</link>
+        <description>Your Blog description</description>
+        <lastBuildDate>Wed, 15 May 2024 06:28:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Your Blog name</title>
+            <url>https://newsweb.wrteam.me/favicon.ico</url>
+            <link>https://newsweb.wrteam.me</link>
+        </image>
+        <copyright>All rights reserved 2024</copyright>
+        <item>
+            <title><![CDATA[Sample Blog Post 2]]></title>
+            <link>https://newsweb.wrteam.me/blog/sample-blog-post-2</link>
+            <guid>https://newsweb.wrteam.me/blog/sample-blog-post-2</guid>
+            <pubDate>Sun, 19 Feb 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[This is the second sample blog post]]></description>
+            <content:encoded><![CDATA[This is the second sample blog postt.]]></content:encoded>
+            <author>example@gmail.com (John Doe)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sample Blog Post 3]]></title>
+            <link>https://newsweb.wrteam.me/blog/sample-blog-post-3</link>
+            <guid>https://newsweb.wrteam.me/blog/sample-blog-post-3</guid>
+            <pubDate>Sun, 19 Feb 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[This is the 3 sample blog post]]></description>
+            <content:encoded><![CDATA[This is the 3 sample blog postt.]]></content:encoded>
+            <author>example@gmail.com (John Doe)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sample Blog Post 1]]></title>
+            <link>https://newsweb.wrteam.me/blog/sample-blog-post-1</link>
+            <guid>https://newsweb.wrteam.me/blog/sample-blog-post-1</guid>
+            <pubDate>Sat, 14 Jan 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[This is the first sample blog post]]></description>
+            <content:encoded><![CDATA[This is the first sample blog postt.]]></content:encoded>
+            <author>example@gmail.com (John Doe)</author>
+        </item>
+    </channel>
+</rss>

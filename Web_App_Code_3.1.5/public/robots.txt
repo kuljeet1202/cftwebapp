@@ -1,0 +1,5 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+Sitemap: https://next-js-news-nu.vercel.app/sitemap.xml
+Sitemap: https://next-js-news-nu.vercel.app/rssfeed.xml
